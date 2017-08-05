@@ -1,0 +1,24 @@
+.number i, .loc i{
+    font-size: 1.5em;
+    color: #000000;
+}
+.loc i {
+    margin-bottom: 3px;
+}
+.down_header_titles i {
+    font-size: 18px;
+    color: #575757;
+}
+.search i {
+    color: #ffffff;
+    font-size: 1.4em;
+}
+.menu_city i {
+    font-size: 21px;
+    color: #ffffff;
+    margin: 0 0 2px 17px;
+}
+.mobil_menu i {
+    color: #fff;
+    font-size: 20px;
+}
